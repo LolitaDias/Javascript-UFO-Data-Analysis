@@ -18,7 +18,12 @@ https://github.com/LolitaDias/Javascript-UFO-Data-Analysis/blob/master/UFO-level
 3. Add filter input fields to the HTML web page for date, city, state, country, and shape.
 4. Create a function to filter the JSON array based on user input, and generate and display the updated table.
 
+#### Results
 
+Run these files in the browser:
+
+1. https://github.com/LolitaDias/Javascript-UFO-Data-Analysis/blob/master/UFO-level-1/index.html
+2. https://github.com/LolitaDias/Javascript-UFO-Data-Analysis/blob/master/UFO-level-2/index.html
 
 
 

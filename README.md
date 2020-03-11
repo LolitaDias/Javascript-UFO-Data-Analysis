@@ -24,7 +24,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 5. Push the above changes to GitHub or GitLab.
 
-### Level 1: Automatic Table and Date Search (Required)
+
 
 
 

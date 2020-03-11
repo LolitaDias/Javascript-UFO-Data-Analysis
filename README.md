@@ -36,5 +36,4 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Level 2: Multiple Search Categories (Optional)
 
-* Complete all of Level 1 criteria.
 
